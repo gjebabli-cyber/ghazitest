@@ -1,0 +1,8 @@
+{
+  "name": "Brocante de Cannes",
+  "description": "Au cœur de la Côte d’Azur, la brocante de Cannes incarne l’élégance intemporelle et l’art de vivre raffiné. Pièces rares, luminaires d’époque et objets d’art soigneusement sélectionnés.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
